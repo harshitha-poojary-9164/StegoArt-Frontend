@@ -4,7 +4,7 @@
 > `ml`). For clone/setup instructions covering all three, see the
 > [root README](../README.md).
 
-React + Vite + Tailwind CSS v4 UI for StegoArt: hide a text or image secret
+React + Vite + Tailwind CSS v4 UI for StegoArt: hide a text secret
 inside a cover photo, then extract it back. Also lets you render an
 artistic-style copy of the stego image via neural style transfer (display
 only — see the note below).
